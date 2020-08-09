@@ -7,11 +7,7 @@ title:  Minimax algorithm with Golang
 author:  Vu Hai Lam
 
 ---
-
-  
-
 # Minimax Algorithm
-
 In my free time, I suddenly remembered an assignment in PRF192 subject (Programming Fundamentals with C/C++) when first year at my University. My teacher asked me to use Minimax Algorithm and code a classic game, Tic Tac Toe play with computer. By the way, I am studying new language, Go. So I choose it to code Tic Tac Toe again.
 ## The first, What is Minimax Algorithm
 AI? Machine learning algorithm? No, It's just  a kind of backtracking algorithm that is used in decision making and game theory to find the optimal move for a player. In Minimax the two players are called maximizer and minimizer. The maximizer tries to get the highest score possible while the minimizer tries to do the opposite and get the lowest score possible. Let's see how it applies in Tic Tac Toe game.
